@@ -1,9 +1,9 @@
 # 🚀 Python UV Template
 
-[![GitHub stars](https://img.shields.io/github/stars/Geson-anko/python-uv-template?style=social)](https://github.com/Geson-anko/python-uv-template/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Geson-anko/vrchat-body?style=social)](https://github.com/Geson-anko/vrchat-body/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
-[![Main workflow](https://github.com/Geson-anko/python-uv-template/actions/workflows/main.yml/badge.svg)](https://github.com/Geson-anko/python-uv-template/actions/workflows/main.yml)
+[![Main workflow](https://github.com/Geson-anko/vrchat-body/actions/workflows/main.yml/badge.svg)](https://github.com/Geson-anko/vrchat-body/actions/workflows/main.yml)
 
 > ✨ A modern Python project template using UV package manager for blazing fast dependency management
 
@@ -23,7 +23,7 @@
 
 ### Create New Repository
 
-[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](https://github.com/new?template_name=python-uv-template&template_owner=Geson-anko)
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](https://github.com/new?template_name=vrchat-body&template_owner=Geson-anko)
 
 ### Clone and Setup
 
@@ -68,7 +68,7 @@ make clean
 ├── .devcontainer/      # Dev container configuration
 ├── .github/            # GitHub workflows and templates
 ├── src/
-│   └── python_uv_template/  # Source code (will be renamed)
+│   └── vrchat_body/  # Source code (will be renamed)
 ├── tests/              # Test files
 ├── .pre-commit-config.yaml
 ├── Makefile            # Development commands
