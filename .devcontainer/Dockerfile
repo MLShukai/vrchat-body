@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM ubuntu:latest
 
 RUN mkdir -p /workspace
 WORKDIR /workspace
@@ -10,6 +10,14 @@ RUN apt-get update && apt-get install -y \
     git \
     curl \
     make \
+    cmake \
+    build-essential \
+    pkg-config \
+    libevdev-dev \
+    libsndfile1 \
+    libopencv-dev \
+    v4l-utils \
+    pulseaudio \
 && apt-get clean \
 && rm -rf /var/lib/apt/lists/*
 
